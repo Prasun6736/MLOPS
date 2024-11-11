@@ -1,4 +1,4 @@
-mlops_demo
+mlops
 ==============================
 
 its a mlops project
